@@ -1,5 +1,7 @@
 # Agent Space
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/madhavsomani/agent-space)
+
 A real-time dashboard for monitoring your [OpenClaw](https://openclaw.com) AI agent team — presented as an interactive office map.
 
 [![CI](https://github.com/madhavsomani/agent-space/actions/workflows/ci.yml/badge.svg)](https://github.com/madhavsomani/agent-space/actions/workflows/ci.yml)
